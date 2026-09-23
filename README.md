@@ -8,7 +8,7 @@ A Voltage-to-Frequency Converter is a circuit that converts an
 input voltage into a corresponding output frequency.
 
 This project was designed and implemented using an LM741
-operational amplifier and a 555 timer.
+operational amplifier and Passive components 
 
 ## 🔧 Components Used
 
